@@ -14,6 +14,6 @@
 
 ## Refer to Learning Azure Learning Pathway PDFs:
 
-1. [Azure Administrator AZ-104 certification] (Pathway Files/Azure Administrator (AZ-104) Pathway.pdf)
-2. Azure Developer AZ-204 certification
-3. Azure Solution Architect AZ-305 certification
+1. [Azure Administrator AZ-104 certification](Pathway-Files/Azure-Administrator-AZ-104-Pathway.pdf)
+2. [Azure Developer AZ-204 certification](Pathway-Files/Azure-Developer-AZ-204-Pathway.pdf)
+3. [Azure Solution Architect AZ-305 certification](Pathway-Files/Azure-Solution-Architect-AZ-305-Pathway.pdf)
