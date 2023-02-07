@@ -13,6 +13,6 @@
 -https://www.c4isrnet.com/
 
 ##Refer to Learing Azure Learning Pathway PDFs:
-1. Azure Administrator AZ-104 certification
+1. [Azure Administrator AZ-104 certification] (Pathway Files/Azure Administrator (AZ-104) Pathway.pdf)
 2. Azure Developer AZ-204 certification
 3. Azure Solution Architect AZ-305 certification
