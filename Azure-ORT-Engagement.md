@@ -13,7 +13,7 @@
 - <https://www.c4isrnet.com/>
 
 ## Presentation PDFs:
-- (Day 1)[presentations/01-Federal-ORT-Azure-Kickoff-SMAP.pdf]
+- (Day 1)[presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf]
 - Day 2
 - Day 3 
 
