@@ -12,6 +12,11 @@
 - <https://www.youtube.com/@NTFAQGuy>
 - <https://www.c4isrnet.com/>
 
+## Presentation PDFs:
+- (Day 1)[presentations/01-Federal-ORT-Azure-Kickoff-SMAP.pdf]
+- Day 2
+- Day 3 
+
 ## Refer to Learning Azure Learning Pathway PDFs:
 
 1. [Azure Administrator AZ-104 certification](Pathway-Files/Azure-Administrator-AZ-104-Pathway.pdf)
