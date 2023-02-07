@@ -1,19 +1,19 @@
 # Links Shared Day 1:
 
-- <https://ccxdemostorage.z2.web.core.usgovcloudapi.net/index.html>
-- <https://learn.microsoft.com/en-us/certifications/exams/az-900/>
-- <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/>
-- <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/defense/>
-- <https://learn.microsoft.com/en-us/azure/architecture/>
-- <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/>
-- <https://github.com/Azure/missionlz>
+- OneNote Package locations <https://ccxdemostorage.z2.web.core.usgovcloudapi.net/index.html>
+- AZ-900 certification page <https://learn.microsoft.com/en-us/certifications/exams/az-900/>
+- Microsoft Cloud Adoption Framework <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/>
+- Defense Cloud Adoption scenario <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/defense/>
+- Azure Architecture Center <https://learn.microsoft.com/en-us/azure/architecture/>
+- What are Landging Zone? <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/>
+- Mission Landing Zones <https://github.com/Azure/missionlz>
 
 ## Extra:
-- <https://www.youtube.com/@NTFAQGuy>
-- <https://www.c4isrnet.com/>
+- John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
+- Defense news daily feed <https://www.c4isrnet.com/>
 
 ## Presentation PDFs:
-- (Day 1)[presentations/01-Federal-ORT-Azure-Kickoff-SMAP.pdf]
+- [Day 1](presentations/01-Federal-ORT-Azure-Kickoff-SMAP.pdf)
 - Day 2
 - Day 3 
 
