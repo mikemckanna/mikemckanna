@@ -24,6 +24,8 @@
 - Microsoft Security Engineer AZ-500 https://learn.microsoft.com/en-us/certifications/azure-security-engineer/
 
 # Links Shared Day 3:
+- Azure Monitor Overview https://learn.microsoft.com/en-gb/azure/azure-monitor/overview
+- 
 
 ## Extra:
 - John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
