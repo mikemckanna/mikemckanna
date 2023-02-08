@@ -8,13 +8,30 @@
 - What are Landing Zone? <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/>
 - Mission Landing Zones <https://github.com/Azure/missionlz>
 
+# Links Shared Day 2:
+- Microsoft CAF Secure section https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/
+- Microsoft Security Fundamentals https://learn.microsoft.com/en-us/azure/security/fundamentals/
+- Azure Cloud Security Benchmark https://learn.microsoft.com/en-us/security/benchmark/azure/
+- Azure Services by Audit Scope https://learn.microsoft.com/en-us/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-government-services-by-audit-scope
+- Azure DoD IL6 https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-dod-il6
+- Microsoft Policy Sample Incident Response https://learn.microsoft.com/en-us/azure/governance/policy/samples/gov-fedramp-high#incident-response
+- Microsoft CAF CISO Readiness Guide https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/cloud-security-readiness
+- Microsoft CAF Aligning cloud teams RACI https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment
+- Microsoft CAF Mapping Roles & Skills https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills
+- Azure RBAC and the different roles https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles
+- Azure Resource Manager overview https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+- Azure GOV VM Stigs https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-windows-vm
+- Microsoft Security Engineer AZ-500 https://learn.microsoft.com/en-us/certifications/azure-security-engineer/
+
 ## Extra:
 - John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
 - Defense news daily feed <https://www.c4isrnet.com/>
 
 ## Presentation PDFs:
-- [Day 1](presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf)
+- Day 1 [Kickoff Intro SMAP](presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf)
 - Day 2
+  - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
+  - [CSP Intro to Security](presntations/04-Federal-ORT-Introduction-to-Security.pdf)
 - Day 3 
 
 ## Refer to Learning Azure Learning Pathway PDFs:
