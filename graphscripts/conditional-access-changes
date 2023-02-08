@@ -1,4 +1,4 @@
-//Conditional access changes new value and old value. Not new adds. 
+// Conditional access changes new value and old value. Not new adds. 
  
 let operatorUPN = "user@domain.com"; 
 let lookback = 2d; 
