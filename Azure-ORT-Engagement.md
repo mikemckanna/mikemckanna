@@ -23,6 +23,8 @@
 - Azure GOV VM Stigs https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-stig-windows-vm
 - Microsoft Security Engineer AZ-500 https://learn.microsoft.com/en-us/certifications/azure-security-engineer/
 
+# Links Shared Day 3:
+
 ## Extra:
 - John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
 - Defense news daily feed <https://www.c4isrnet.com/>
