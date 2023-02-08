@@ -1,0 +1,7 @@
+// useful to identify unmapped managed disks and public IPs not mapped to a VM/load balancer; 
+// these would be unused resources in the environment which are incurring unnecessary costs.  
+ 
+
+Resources |  where type =~ 'Microsoft.Compute/disks' |  where managedBy=~ '' |  project name, resourceGroup, subscriptionId, location, tags, sku.name, id
+ 
+Resources |  where type =~ 'Microsoft.Network/publicIPAddresses' | where properties.ipConfiguration=~ '' | project name, resourceGroup, subscriptionId, location, tags, id
