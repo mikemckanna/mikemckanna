@@ -39,7 +39,7 @@
 - Day 2
   - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
   - [CSP Intro to Security](presntations/04-Federal-ORT-Introduction-to-Security.pdf)
-- Day 3 [Intro to Monitor - MIRP/CCMP](presentations/03-Federal-ORT-Introduction to Monitor.pdf)
+- Day 3 [Intro to Monitor - MIRP/CCMP](presentations/03-Federal-ORT-Introduction-to-Monitor.pdf)
 
 ## Refer to Learning Azure Learning Pathway PDFs:
 
