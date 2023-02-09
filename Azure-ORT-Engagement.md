@@ -25,7 +25,10 @@
 
 # Links Shared Day 3:
 - Azure Monitor Overview https://learn.microsoft.com/en-gb/azure/azure-monitor/overview
-- 
+- Azure Service & Resource Health https://learn.microsoft.com/en-us/azure/service-health/overview
+- Azure Updates/Roadmap for Government https://azure.microsoft.com/en-us/updates/?query=government
+- Azure Resource Manager Templates https://learn.microsoft.com/en-gb/azure/azure-monitor/resource-manager-samples?tabs=cli
+- Create a virtual network - Resource Manager template https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-template
 
 ## Extra:
 - John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
@@ -36,7 +39,7 @@
 - Day 2
   - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
   - [CSP Intro to Security](presntations/04-Federal-ORT-Introduction-to-Security.pdf)
-- Day 3 
+- Day 3 [Intro to Monitor (MIRP/CCMP)](presentations/03-Federal-ORT-Introduction to Monitor.pdf)
 
 ## Refer to Learning Azure Learning Pathway PDFs:
 
