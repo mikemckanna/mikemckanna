@@ -1,0 +1,21 @@
+// Subscription owner: A delegated role for subscription owner derived from subscription owner role.
+// copied from https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/3-identity-access-management
+
+{
+  "Name": "Subscription owner",
+  "Id": "88888888-8888-8888-8888-888888888888",
+  "IsCustom": true,
+  "Description": "A delegated role for subscription owner derived from subscription owner role.",
+  "Actions": [
+    "*"],
+  "NotActions": [
+    "Microsoft.Authorization/*/write",
+    "Microsoft.Network/vpnGateways/*",
+    "Microsoft.Network/expressRouteCircuits/*",
+    "Microsoft.Network/routeTables/write",
+    "Microsoft.Network/vpnSites/*"],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"]
+}

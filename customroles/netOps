@@ -1,0 +1,21 @@
+// Network management (NetOps): Used for platform-wide global connectivity management of virtual networks, user data repositories, network security groups, network virtual appliances, virtual private networks, Azure ExpressRoute, and others.
+// copied from https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/3-identity-access-management
+
+{
+  "Name": "NetOps",
+  "Id": "88888888-8888-8888-8888-888888888888",
+  "IsCustom": true,
+  "Description": "Used for platform-wide global connectivity management of network resources.",
+  "Actions": [
+    "*/read",
+    "Microsoft.Authorization/*/write",
+    "Microsoft.Network/vpnGateways/*",
+    "Microsoft.Network/expressRouteCircuits/*",
+    "Microsoft.Network/routeTables/write",
+    "Microsoft.Network/vpnSites/*"],
+  "NotActions": [],
+  "DataActions": [],
+  "NotDataActions": [],
+  "AssignableScopes": [
+    "/"]
+}
