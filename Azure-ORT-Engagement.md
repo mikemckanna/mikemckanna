@@ -47,7 +47,7 @@
 - Day 1 [Kickoff Intro SMAP](presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf)
 - Day 2
   - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
-  - [CSP Intro to Security](presntations/04-Federal-ORT-Introduction-to-Security.pdf)
+  - [CSP Intro to Security](presentations/04-Federal-ORT-Introduction-to-Security.pdf)
 - Day 3 [Intro to Monitor - MIRP/CCMP](presentations/03-Federal-ORT-Introduction-to-Monitor.pdf)
 - Day 4 [Close-out](presentations/05-Federal-ORT-Azure-Closeout.pdf)
 
