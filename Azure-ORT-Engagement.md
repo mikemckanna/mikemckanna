@@ -43,6 +43,7 @@
 - Microsoft Software and Systems Academy https://military.microsoft.com/mssa/#is-MSSA-for-you
 
 ## Presentation PDFs:
+### These files will be removed on 3/9/2023!
 - Day 1 [Kickoff Intro SMAP](presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf)
 - Day 2
   - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
