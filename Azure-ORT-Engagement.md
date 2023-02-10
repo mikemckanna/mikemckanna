@@ -30,9 +30,17 @@
 - Azure Resource Manager Templates https://learn.microsoft.com/en-gb/azure/azure-monitor/resource-manager-samples?tabs=cli
 - Create a virtual network - Resource Manager template https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-template
 
+# Links Shared Day 4:
+- Azure AD Built-in Roles https://learn.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+- Azure Automation Overview https://learn.microsoft.com/en-us/azure/automation/overview
+- Log Analytics Workspaces Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview
+- Azure Platform Logs overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/platform-logs-overview
+- Azure API management https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+
 ## Extra:
 - John Savill's Technical Training YouTube channel <https://www.youtube.com/@NTFAQGuy>
 - Defense news daily feed <https://www.c4isrnet.com/>
+- Microsoft Software and Systems Academy https://military.microsoft.com/mssa/#is-MSSA-for-you
 
 ## Presentation PDFs:
 - Day 1 [Kickoff Intro SMAP](presentations/01-Federal-ORT-Azure-Kickoff-Intro-SMAP.pdf)
@@ -40,6 +48,7 @@
   - [Cloud Roles](presentations/02-Federal-ORT-Azure-Cloud_Roles.pdf)
   - [CSP Intro to Security](presntations/04-Federal-ORT-Introduction-to-Security.pdf)
 - Day 3 [Intro to Monitor - MIRP/CCMP](presentations/03-Federal-ORT-Introduction-to-Monitor.pdf)
+- Day 4 [Close-out](presentations/05-Federal-ORT-Azure-Closeout.pdf)
 
 ## Refer to Learning Azure Learning Pathway PDFs:
 
