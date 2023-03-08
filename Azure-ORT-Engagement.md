@@ -1,6 +1,5 @@
 # Links Shared Day 1:
 
-- OneNote Package locations <https://ccxdemostorage.z2.web.core.usgovcloudapi.net/index.html>
 - AZ-900 certification page <https://learn.microsoft.com/en-us/certifications/exams/az-900/>
 - Microsoft Cloud Adoption Framework <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/>
 - Defense Cloud Adoption scenario <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/defense/>
