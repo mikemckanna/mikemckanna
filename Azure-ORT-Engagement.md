@@ -55,3 +55,4 @@
 1. [Azure Administrator AZ-104 certification](Pathway-Files/Azure-Administrator-AZ-104-Pathway.pdf)
 2. [Azure Developer AZ-204 certification](Pathway-Files/Azure-Developer-AZ-204-Pathway.pdf)
 3. [Azure Solution Architect AZ-305 certification](Pathway-Files/Azure-Solution-Architect-AZ-305-Pathway.pdf)
+4. [Azure Cost Management Pathway](Pathway-Files/Azure-Cost-Management-Pathway.pdf)
