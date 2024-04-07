@@ -5,7 +5,7 @@
 - 🐋 Connect with me https://www.linkedin.com/in/michaelpmckanna/
 
 
-##My core philosophies - Tenants for success in an ever-evolving technological world:
+## My core philosophies - Tenants for success in an ever-evolving technological world:
 1. **"No pressure. No diamonds."** [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle) Nothing good comes without challenges - embrace them and learn from them. They will only make you better.  
 2. **Humility** - you do nothing in this world by yourself. Everything you've done came with some support from individuals or groups. Recognize it and don't overestimate your capabilities as a loner. 
 3. **Empathy** - we are all humans and going through something at some point time. Work on Emotional Intelligence (EQ) to recognize and internalize what others are experiencing.  
