@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mikemckanna
+- 🌱 Hi, I’m @mikemckanna I’m currently on a knowledge sharing journey.
 - 👀 I’m interested in Cloud (Architecture, Security, Adoption), AI, and other advanced technologies.
-- 🌱 I’m currently on a knowledge sharing journey.
-- 💞️ I’m looking to collaborate on content creation tips to help be more effective.
-- 🐋 Connect with me https://www.linkedin.com/in/michaelpmckanna/
-
-Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
+- ⌨️ See my stories on [Medium.](https://medium.com/@mckan1974) 
+- 💞️ I’m looking to collaborate on content creation tips to help be more effective. 
+- 🪢 Connect with me https://www.linkedin.com/in/michaelpmckanna/
+- 🏢 Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
 
 ## My core philosophy - 12 Tenets for success in an ever-evolving technological world:
 1. **"No pressure. No diamonds."** [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle) Nothing good comes without challenges - embrace them and learn from them. They will only make you better.  
