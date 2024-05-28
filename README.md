@@ -1,9 +1,8 @@
 - 🌱 Hi, I’m @mikemckanna I’m currently on a knowledge sharing journey.
 - 👀 I’m interested in Cloud (Architecture, Security, Adoption), AI, and other advanced technologies.
-- ![YoutubeSubscribeGIF](https://github.com/mikemckanna/mikemckanna/assets/88058048/8dcd772d-6cf8-4d57-8ca0-793c4e9079ce) See my [YouTube channel for The Walking PM](http://www.youtube.com/@TheWalkingPM).
+- 🎥 See my [YouTube channel for The Walking PM](http://www.youtube.com/@TheWalkingPM).
 - 🎦 See my [TikTok Channel for The Walking PM](https://www.tiktok.com/@adnollc).
-- ![image](https://github.com/mikemckanna/mikemckanna/assets/88058048/4a2756b5-fe09-44d2-8d73-aeb3c4fc0940)
-. - ⌨️ See my stories on [Medium.](https://medium.com/@mckan1974) 
+- ⌨️ See my stories on [Medium.](https://medium.com/@mckan1974) 
 - 💞️ I’m looking to collaborate on content creation tips to help be more effective. 
 - 🪢 Connect with me https://www.linkedin.com/in/michaelpmckanna/
 - 🏢 Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
