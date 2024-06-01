@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cloud (Architecture, Security, Adoption), AI, and other advanced technologies.
 - 🎥 See my [YouTube channel for The Walking PM](http://www.youtube.com/@TheWalkingPM).
 - 🎦 See my [TikTok Channel for The Walking PM](https://www.tiktok.com/@adnollc).
-- ⌨️ See my stories on [Medium.](https://medium.com/@mckan1974) 
+- ⌨️ See my stories on [Medium.](https://medium.com/@mckan1974)
+- 🗣️ See my favorite quotes [page](https://github.com/mikemckanna/mikemckanna/blob/main/Quotes.md).
 - 💞️ I’m looking to collaborate on content creation tips to help be more effective. 
 - 🪢 Connect with me https://www.linkedin.com/in/michaelpmckanna/
 - 🏢 Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
