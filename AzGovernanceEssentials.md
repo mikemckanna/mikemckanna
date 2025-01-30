@@ -3,11 +3,11 @@
 # Links Shared Day 1:
 - aka.ms/governancedocs
 - Microsoft Cloud Adoption Framework (CAF) Overview <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview>
-- CAF Govern overview <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/>
+  - CAF Govern overview <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/>
 - Microsoft Well-Architected Framework (WAF) Overview <https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework>
 - Azure Government Overview <https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-welcome>
 - Microsoft Service Trust Portal <https://servicetrust.microsoft.com/>
-- Microsoft compliance offerings <https://learn.microsoft.com/en-us/compliance/regulatory/offering-home>
+  - Microsoft compliance offerings <https://learn.microsoft.com/en-us/compliance/regulatory/offering-home>
 - Federal Risk and Authorization Management Program (FedRAMP) Compliance <https://learn.microsoft.com/en-us/azure/compliance/offerings/offering-fedramp>
 - What is Microsoft Cost Management <https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management\>
 - Azure Architecture Center <https://learn.microsoft.com/en-us/azure/architecture/>
@@ -19,26 +19,27 @@
 - Total Cost of Ownership (TCO) calculator <https://azure.microsoft.com/pricing/tco/calculator/>
 - Azure Pricing Calculator <https://azure.microsoft.com/en-us/pricing/calculator/>
 - AZ-900 Azure Fundamentals certification <https://learn.microsoft.com/en-us/credetials/certifications/azure-fundamentals/?practice-assessment-type=certification>
-- aka.ms/CertificationsPoster  
-- John Savill's YouTube Channel - Introduction - AZ-900 Certification Course
-- <https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3>
+  - aka.ms/CertificationsPoster  
+  - John Savill's YouTube Channel - Introduction - AZ-900 Certification Course <https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3>
+  - <https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3>
 - Mission Landing Zone design - <https://github.com/Azure/missionlz/blob/main/docs/design.md>
 - <https://learn.microsoft.com/en-us/training/modules/save-money-with-azure-reserved-instances/>
 - <https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations>
 - <https://www.youtube.com/c/CustomerArchitectureEngineering>
-- <https://www.youtube.com/watch?v=8ECcvTxkrJA> 
+  - Azure LZ Handling Dev/Test/Prod Workloads <https://www.youtube.com/watch?v=8ECcvTxkrJA> 
 - NIST SP 800-53 Rev. 5 Regulatory Compliance built-in Azure Policy initiative <https://learn.microsoft.com/en-us/azure/governance/policy/samples/nist-sp-800-53-r5>
-- <https://datacenters.microsoft.com/globe/the-building-blocks-of-azure/>
-- <https://azure.microsoft.com/en-us/explore/global-infrastructure/availability-zones/>
-- <https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy>
-- <https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines>
-- <https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla-local-zone-redundancy?view=azuresql&toc=%2Fazure%2Freliability%2Ftoc.json&bc=%2Fazure%2Freliability%2Fbreadcrumb%2Ftoc.json&tabs=azure-powershell>
-- Abbreviation recommendations for Azure resources - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations>
+- Datacenter/availability zone overview & Redundancy
+  - <https://datacenters.microsoft.com/globe/the-building-blocks-of-azure/>
+  - <https://azure.microsoft.com/en-us/explore/global-infrastructure/availability-zones/>
+  - <https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy>
+  - <https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines>
+  - <https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla-local-zone-redundancy?view=azuresql&toc=%2Fazure%2Freliability%2Ftoc.json&bc=%2Fazure%2Freliability%2Fbreadcrumb%2Ftoc.json&tabs=azure-powershell>
+- Abbreviation recommendations for Azure resources <https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations>
 
 # Links Shared Day 3:
-- Azure Monitor overview <https://learn.microsoft.com/en-us/azure/azure-monitor/overview<
+- Azure Monitor overview <https://learn.microsoft.com/en-us/azure/azure-monitor/overview>
 - What is Zero Trust? <https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview>
-- Configure Microsoft cloud services for the CISA Zero Trust Maturity Model <https://learn.microsoft.com/en-us/security/zero-trust/cisa-zero-trust-maturity-model-intro>
+  - Configure Microsoft cloud services for the CISA Zero Trust Maturity Model <https://learn.microsoft.com/en-us/security/zero-trust/cisa-zero-trust-maturity-model-intro>
 
 
 ## Refer to Learning Azure Learning Pathway PDFs:
