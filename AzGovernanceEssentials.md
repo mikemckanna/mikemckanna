@@ -1,4 +1,4 @@
-[Deliverables Zip file](Pathway-Files/AZ-Governance-Deliverables.zip) Select link, click copy raw file to download zip as shown in image:
+Deliverables Zip (file removed, info kept for future use) Select link, click copy raw file to download zip as shown in image:
 ![image](https://github.com/user-attachments/assets/a153cf42-8ad4-4606-9959-07c2752c8fba)
 
 
