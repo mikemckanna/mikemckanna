@@ -1,35 +1,226 @@
 # Microsoft Azure Security Engineer Associate Certification Exam AZ-500 Preparation Guide
-
-## General Links
+Download the OneNote section [here](/Pathway-Files/AZ-500-Study-Share.one).
+<details> 
+<summary>Interactive Cloud Guides</summary>
+- Interactive Cloud Guide: Defender for Cloud https://mslearn.cloudguides.com/en-US/guides/Defender%20for%20Cloud<br/>
+- Azure Fundamentals (AZ-900) https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals<br/>
+- Azure Administrator (AZ-104) https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) Load Balancer https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Create%20and%20configure%20an%20Azure%20load%20balancer<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) Traffic Manager https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Create%20a%20Traffic%20Manager%20profile%20using%20the%20Azure%20portal<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700)  Application Gateway https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Deploy%20Azure%20Application%20Gateway<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) Front Door https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Create%20a%20Front%20Door%20profile%20for%20a%20highly%20available%20web%20application<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) Azure Firewall https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Deploy%20and%20configure%20Azure%20Firewall%20using%20the%20Azure%20portal<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) DDoS https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Configure%20Azure%20DDoS%20Protection%20on%20a%20virtual%20network<br/>
+- Designing and Implementing Microsoft Azure Networking Solutions (AZ-700) Virtual Hub https://mslabs.cloudguides.com/guides/AZ-700%20Lab%20Simulation%20-%20Secure%20your%20virtual%20hub%20using%20Azure%20Firewall%20Manager<br/>
+</details> 
+<details>
+<summary>General Study Resources</summary>
 
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500) <https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification>
 - Study guide for Exam AZ-500: Microsoft Azure Security Technologies <https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500>
-- LinkedIn Learning AZ-500 Study course <https://www.linkedin.com/learning/microsoft-azure-security-technology-az-500-cert-prep-by-microsoft-press/learning-objectives-24367913?resume=false&u=3322>
-- Interactive Cloud Guide: Defender for Cloud <https://mslearn.cloudguides.com/en-US/guides/Defender%20for%20Cloud>
+- LinkedIn Learning AZ-500 [Study course](https://www.linkedin.com/learning/microsoft-azure-security-technology-az-500-cert-prep-by-microsoft-press/learning-objectives-24367913?resume=false&u=3322)
 - Security operations | Microsoft Learn <https://learn.microsoft.com/en-us/security/operations/overview>  Includes MS Security tool implementations for ZTA
 - Risk Assessment Guide for Microsoft Cloud <https://learn.microsoft.com/en-us/compliance/assurance/assurance-risk-assessment-guide> How Microsoft does security, governance, and monitoring.
-- Azure Engineering Boot Camp <https://microsoft.sharepoint.com/teams/AELBootCamp?xsdata=MDV8MDJ8fGE4YjUxMDMwYTY1YTQzNzYwZjFmMDhkZDMwMDA4NWQwfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2Mzg3MTk1MDA5NTk2MTY3OTl8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa1JzYlU5SFdYZFpiVWwwV1ZSWk1rNVRNREJQVkdSclRGZEdiVTlYV1hSWk1rbDNXa1JaZUU0eVdYZGFWMHBvUUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56TTJNelV6TWprMU1qZ3l8MzQzZTNlYjljZTRiNDk5MWFjZDAwOGRkMzAwMDg1Y2R8NGZjMzNhZTFlYzk2NDcxZWI5YTZmODg5ZmU0NWRjYzA%3D&sdata=UDRpSmhuYjlBMEdDclc4Ujdxb1hLc3BNSXArTEtteVVyaGFBVDNxclQvRT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cmikemckanna%40microsoft.com&OR=Teams-HL&CT=1736353303621&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDEyMDEwMDIxMyIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9>
+- Azure Engineering [Boot Camp](https://microsoft.sharepoint.com/teams/AELBootCamp?xsdata=MDV8MDJ8fGE4YjUxMDMwYTY1YTQzNzYwZjFmMDhkZDMwMDA4NWQwfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2Mzg3MTk1MDA5NTk2MTY3OTl8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa1JzYlU5SFdYZFpiVWwwV1ZSWk1rNVRNREJQVkdSclRGZEdiVTlYV1hSWk1rbDNXa1JaZUU0eVdYZGFWMHBvUUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56TTJNelV6TWprMU1qZ3l8MzQzZTNlYjljZTRiNDk5MWFjZDAwOGRkMzAwMDg1Y2R8NGZjMzNhZTFlYzk2NDcxZWI5YTZmODg5ZmU0NWRjYzA%3D&sdata=UDRpSmhuYjlBMEdDclc4Ujdxb1hLc3BNSXArTEtteVVyaGFBVDNxclQvRT0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cmikemckanna%40microsoft.com&OR=Teams-HL&CT=1736353303621&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDEyMDEwMDIxMyIsIkhhc0ZlZGVyYXRlZFVzZXIiOnRydWV9)
 	-	Azure Advanced <https://microsoft.sharepoint.com/teams/AEL/SitePages/Advanced-Azure.aspx>
 - AZ-500 Learning Blueprint <https://aka.ms/AZ-500Blueprint> | Template+ <https://aka.ms/CourseBlueprint/AZ-500Template> | Visio File <https://aka.ms/CourseBlueprint/AZ-500Contents>
 	- From Techcommunity Post  <https://techcommunity.microsoft.com/blog/azurearchitectureblog/azure-course-blueprints/4338972> 
+</details>
 
-## Study
+## Study Guide
+1. AZ-500: Manage identity and access - Training | Microsoft Learn - https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/<br/>
+	- Manage security controls for identity and access
+		- Manage Azure built-in role assignments
+			- https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles
+			- https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
+		- Manage custom roles, including Azure roles and Microsoft Entra roles
+			- https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles
+		- Implement and manage Microsoft Entra Permissions Management
+			- https://learn.microsoft.com/en-us/entra/permissions-management/overview
+		- Plan and manage Azure resources in Microsoft Entra Privileged Identity Management, including settings and assignments
+			- https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-deployment-plan
+		- Implement multi-factor authentication (MFA) for access to Azure resources
+			- https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted
+			- https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-azure-mfa
+		- Implement Conditional Access policies for cloud resources in Azure
+			- https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview
+			- https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-cloud-apps
+	- Manage Microsoft Entra application access
+		- Manage access to enterprise applications in Microsoft Entra ID, including OAuth permission grants
+			- https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/manage-application-permissions?pivots=portal
+		- Manage Microsoft Entra app registrations
+			- https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate
+		- Configure app registration permission scopes
+			- https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-configure-app-access-web-apis
+		- Manage app registration permission consent
+			- https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/manage-consent-requests
+		- Manage and use service principals
+			- https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals?tabs=browser
+		- Manage managed identities
+			- https://learn.microsoft.com/en-us/entra/architecture/service-accounts-managed-identities
+			- https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation-config-app-trust-managed-identity?tabs=microsoft-entra-admin-center
+2. AZ-500: Secure networking - Training | Microsoft Learn - https://learn.microsoft.com/en-us/training/paths/secure-networking/<br/>
+	- Plan and implement security for virtual networks
+		- Plan and implement Network Security Groups (NSGs) and Application Security Groups (ASGs)
+			- https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+			- https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups
+		- Manage virtual networks by using Azure Virtual Network Manager
+			- https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview
+		- Plan and implement user-defined routes (UDRs)
+			- https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+			- https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route
+		- Plan and implement Virtual Network peering or VPN gateway
+			- https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vnet-peering
+			- https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit
+		- Plan and implement Virtual WAN, including secured virtual hub
+			- https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
+			- https://learn.microsoft.com/en-us/azure/virtual-wan/howto-firewall
+			- https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub
+		- Secure VPN connectivity, including point-to-site and site-to-site
+			- https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+			- https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/vpn-gateway-security-baseline?toc=%2Fazure%2Fvpn-gateway%2FTOC.json
+		- Implement encryption over ExpressRoute
+			- https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption
+		- Configure firewall settings on Azure resources
+			- https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy
+		- Monitor network security by using Network Watcher
+			- https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview
+	- Plan and implement security for private access to Azure resources
+		- Plan and implement virtual network Service Endpoints
+			- https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+		- Plan and implement Private Endpoints
+			- https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+		- Plan and implement Private Link services
+			- https://learn.microsoft.com/en-us/azure/private-link/private-link-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json
+		- Plan and implement network integration for Azure App Service and Azure Functions
+			- https://learn.microsoft.com/en-us/azure/app-service/overview-vnet-integration
+		- Plan and implement network security configurations for an App Service Environment (ASE)
+			- https://learn.microsoft.com/en-us/azure/app-service/environment/network-info
+		- Plan and implement network security configurations for an Azure SQL Managed Instance
+			- https://learn.microsoft.com/en-us/azure/azure-sql/database/security-best-practice?view=azuresql
+			- Network Security for Azure SQL | Azure SQL for beginners (Ep. 22)  https://youtu.be/Qwqnk7mFZ2A
+	- Plan and implement security for public access to Azure resources
+		- Plan and implement Transport Layer Security (TLS) to applications, including Azure App Service and API Management
+  			- https://learn.microsoft.com/en-us/azure/app-service/overview-tls
+		- Plan, implement, and manage an Azure Firewall, including Azure Firewall Manager and firewall policies
+			- https://learn.microsoft.com/en-us/azure/firewall-manager/overview
+		- Plan and implement an Azure Application Gateway
+			- https://learn.microsoft.com/en-us/azure/application-gateway/features
+		- Plan and implement an Azure Front Door, including Content Delivery Network (CDN)
+			- https://learn.microsoft.com/en-us/azure/frontdoor/best-practices
+		- Plan and implement a Web Application Firewall (WAF)
+			- https://learn.microsoft.com/en-us/azure/web-application-firewall/overview
+		- Recommend when to use Azure DDoS Protection Standard
+			- https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices
+3. AZ-500: Secure compute, storage, and databases - Training | Microsoft Learn - https://learn.microsoft.com/en-us/training/paths/secure-compute-storage-databases/<br/>
+- Plan and implement advanced security for compute
+	- Plan and implement remote access to virtual machines, including Azure Bastion and just-in-time (JIT)
+		- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/plan-for-virtual-machine-remote-access
+	- Configure network isolation for Azure Kubernetes Service (AKS)
+		- https://learn.microsoft.com/en-us/azure/aks/network-isolated?pivots=aks-managed-acr
+	- Secure and monitor AKS
+		- https://learn.microsoft.com/en-us/azure/aks/private-clusters?tabs=default-basic-networking%2Cazure-portal#use-a-private-endpoint-connection
+	- Configure authentication for AKS
+		- https://learn.microsoft.com/en-us/azure/aks/use-managed-identity
+	- Configure security monitoring for Azure Container Instances (ACIs)
+		- https://learn.microsoft.com/en-us/azure/container-instances/container-instances-image-security
+	- Configure security monitoring for Azure Container Apps (ACAs)
+		- https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration?tabs=workload-profiles
+	- Manage access to Azure Container Registry (ACR)
+		- https://learn.microsoft.com/en-us/azure/container-registry/container-registry-roles?tabs=azure-cli
+	- Configure disk encryption, including Azure Disk Encryption (ADE), encryption at host, and confidential disk encryption
+		- https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview
+	- Recommend security configurations for Azure API Management
+		- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/api-management/security
+- Plan and implement security for storage
+	- Configure access control for storage accounts
+		- https://learn.microsoft.com/en-us/azure/storage/common/authorization-resource-provider
+	- Manage storage account access keys
+		- https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal
+	- Select and configure an appropriate method for access to Azure Files
+		- https://learn.microsoft.com/en-us/azure/storage/files/authorize-data-operations-portal
+	- Select and configure an appropriate method for access to Azure Blob Storage
+		- https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access
+	- Select and configure appropriate methods for protecting against data security threats, including soft delete, backups, versioning, and immutable storage
+		- https://learn.microsoft.com/en-us/azure/storage/blobs/data-protection-overview
+	- Configure Bring your own key (BYOK)
+		- https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-customer-provided-keys
+	- Enable double encryption at the Azure Storage infrastructure level
+		- https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?tabs=portal
+- Plan and implement security for Azure SQL Database and Azure SQL Managed Instance
+	- Enable Microsoft Entra database authentication
+		- https://learn.microsoft.com/en-us/azure/azure-sql/database/authentication-azure-ad-only-authentication-tutorial?view=azuresql&tabs=azure-portal
+	- Enable database auditing
+		- https://learn.microsoft.com/en-us/azure/azure-sql/database/auditing-overview?view=azuresql
+	- Plan and implement dynamic masking
+		- https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-configure-portal?view=azuresql
+	- Implement Transparent Data Encryption (TDE)
+		- https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-create-server?view=azuresql&tabs=azure-portal
+	- Recommend when to use Azure SQL Database Always Encrypted
+		- https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/always-encrypted-database-engine?view=sql-server-ver16
+4. AZ-500: Manage security operations - Training | Microsoft Learn - https://learn.microsoft.com/en-us/training/paths/manage-security-operations-new/<br/>
+	- Implement and manage enforcement of cloud governance policies
+		- Create, assign, and interpret policies and initiatives in Azure Policy
+			- https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics
+		- Azure Policy and KubernetesAzure Policy and Kubernetes
+  			- https://www.youtube.com/watch?v=Hv3K8zJSbow&t=4s
+		- Configure Azure Key Vault network settings
+		- https://learn.microsoft.com/en-us/azure/key-vault/general/how-to-azure-key-vault-network-security?tabs=azure-portal
+		- Configure access to Key Vault, including vault access policies and Azure Role Based Access Control
+			- https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-guide?tabs=azure-cli
+		- Manage certificates, secrets, and keys
+			- https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management
+			- https://learn.microsoft.com/en-us/azure/key-vault/general/apps-api-keys-secrets?tabs=azure-cli
+		- Configure key rotation
+			- https://learn.microsoft.com/en-us/azure/key-vault/keys/how-to-configure-key-rotation
+		- Perform backup and recovery of certificates, secrets, and keys
+			- https://learn.microsoft.com/en-us/azure/key-vault/general/backup?tabs=azure-cli
+		- Implement security controls to protect backups
+			- https://learn.microsoft.com/en-us/azure/backup/security-overview
+		- Implement security controls for asset management
+			- https://learn.microsoft.com/en-us/security/benchmark/azure/security-control-inventory-asset-management
+	- Manage security posture by using Microsoft Defender for Cloud
+		- Identify and remediate security risks by using the Microsoft Defender for Cloud Secure Score and Inventory
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/implement-security-recommendations
+		- Assess compliance against security frameworks by using Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/overview-page
+		- Manage compliance standards in Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/plan-multicloud-security-determine-compliance-requirements
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/update-regulatory-compliance-packages
+		- Add custom standards to Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/create-custom-recommendations
+		- Connect hybrid cloud and multi-cloud environments to Microsoft Defender for Cloud, including Amazon Web Services (AWS) and Google Cloud Platform (GCP)
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines
+		- Implement and use Microsoft Defender External Attack Surface Management (EASM)
+			- https://learn.microsoft.com/en-us/azure/external-attack-surface-management/deploying-the-defender-easm-azure-resource
+	- Configure and manage threat protection by using Microsoft Defender for Cloud
+		- Enable workload protection services in Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/monitoring-components
+		- Configure Microsoft Defender for Servers, Microsoft Defender for Databases, and Microsoft Defender for Storage
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-defender-for-endpoint
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/configure-vulnerability-findings-express
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-azure-portal-enablement?tabs=enable-subscription
+		- Implement and manage agentless scanning for virtual machines in Microsoft Defender for Servers
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-agentless-scanning-vms
+		- Implement and manage Microsoft Defender Vulnerability Management for Azure virtual machines
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/auto-deploy-vulnerability-assessment
+		- Connect to and configure settings in Microsoft Defender for Cloud Devops Security, including GitHub, Azure DevOps, and GitLab
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops
+	- Configure and manage security monitoring and automation solutions
+		- Manage and respond to security alerts in Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/managing-and-responding-alerts
+		- Configure workflow automation by using Microsoft Defender for Cloud
+			- https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation
+		- Monitor network security events and performance data by configuring data collection rules (DCRs) in Azure Monitor
+			- https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-monitor
+		- Configure data connectors in Microsoft Sentinel
+			- https://learn.microsoft.com/en-us/azure/sentinel/configure-data-connector?tabs=azure-portal
+			- https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview
+		- Enable analytics rules in Microsoft Sentinel
+			- https://learn.microsoft.com/en-us/azure/sentinel/enable-entity-behavior-analytics?tabs=azure
+		- Configure automation in Microsoft Sentinel
+			- https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook
 
-1. AZ-500: Manage identity and access - Training | Microsoft Learn <https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/>
-	a. Manage security controls for identity and access
-		i. Manage Azure built-in role assignments
-			1) <https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles>
-			2) <https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal>
-		ii. Manage custom roles, including Azure roles and Microsoft Entra roles
-			1) <https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles>
-		iii. Implement and manage Microsoft Entra Permissions Management
-			1) <https://learn.microsoft.com/en-us/entra/permissions-management/overview>
-		iv. Plan and manage Azure resources in Microsoft Entra Privileged Identity Management, including settings and assignments
-			1) <https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-deployment-plan>
-		v. Implement multi-factor authentication (MFA) for access to Azure resources
-			1) <https://learn.microsoft.com/en-us/entra/identity/authentication/howto-mfa-getstarted>
-			2) <https://learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-azure-mfa>
-		vi. Implement Conditional Access policies for cloud resources in Azure
-			1) <https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview>
-			2) <https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-cloud-apps>
 
