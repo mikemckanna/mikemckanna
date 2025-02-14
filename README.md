@@ -1,10 +1,11 @@
 - 🌱 Hi, I’m @mikemckanna I’m currently on a knowledge sharing journey.
 - 👀 I’m interested in Cloud (Architecture, Security, Adoption), AI, and other advanced technologies.
 - 🎥 See my [YouTube channel for The Walking PM](http://www.youtube.com/@TheWalkingPM).
-- 🗣️ See my favorite quotes [page](https://github.com/mikemckanna/mikemckanna/blob/main/Quotes.md).
+- 🗣️ See my favorite quotes [page](/Quotes.md).
 - 💞️ I’m looking to collaborate on content creation tips to help be more effective. 
 - 🪢 Connect with me https://www.linkedin.com/in/michaelpmckanna/
 - 🏢 Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
+- 📖 Prepare for the Microsoft Azure Security Engineer Associate AZ-500 exam with my [study guide](/az500-guide.md).
 
 ## My core philosophy - 12 Tenets for success in an ever-evolving technological world:
 1. **"No pressure. No diamonds."** [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle) Nothing good comes without challenges - embrace them and learn from them. They will only make you better.  
