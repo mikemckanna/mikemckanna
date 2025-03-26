@@ -1,0 +1,22 @@
+# The Cynefin Decision Making Framework
+
+As we are discussing ways to engage stakeholders effectively through this [⁠VUCA](https://en.wikipedia.org/wiki/VUCA) world, I dug up a concept from my master's program which may be of use to guide our customers through this turbulent period.
+The [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) is a Decision Making tool to navigate the multiple domains of order and disorder - I believe it can be an aid for risk management conversations.
+
+![image](https://github.com/user-attachments/assets/da942a56-5f58-430a-85b6-33640a90422f)<br>
+*Cynefin (Ku-nif-in) Framework - a 'sense-making' device
+Many of us find ourselves in the midst of a crisis. Adversity is a perfect determinator for the good from the great. How do we manage our way back from the disordered to the ordered? The first step is to determine where you are - and that can be difficult to accept (Please take a few moments to read about [The Stockdale Paradox](https://bigthink.com/health/stockdale-paradox-confronting-reality-vital-success/) unless you are already familiar with this concept from Jim Collins' [Good to Great](https://en.wikipedia.org/wiki/Good_to_Great) Chapter 4 Confront the Brutal Facts <i>[Yet Never Lose Faith]</i>).
+A number of organizations would believe themselves to be in the 'Simple' quadrant mostly because they are denying the burning building around them - denial ain't just a river in Africa. Therefore, starting in the Disorder (center) domain, we establish that we are in one of the following domains: Complicated, Complex, and Chaotic.
+
+>Get comfortable with being uncomfortable.
+
+The next step is described for the quadrant you determine yourself to be in:
+1.	If you have determined you are in the Chaotic domain, immediate <b>ACTION</b> is required based on the desired outcome to start the process back to the ordered state. Chaotic times are not meant to utilize previously defined practices, because those practices were created for ORDERED states. Chaos is a novelty, and the required action is drawn from expertise - wisdom based on years of leading and decision making. Many consider this to be the 'war-like' period which requires difficult decisions not easily accepted in peaceful/ordered states. This domain is not the 'rise to the occasion' kind - it's the 'fall back on your training' kind. Unconventional actions may be best served for Chaotic times and can be swiftly introduced to slow the rising tide.
+2.	If you are in the Complex domain, you need to <b>PROBE</b> to discover the patterns and then plan the actions to move back to an ordered state. This is the 'realm of unknown unknowns' and where most organizations usually find themselves. Guiding customers back to the ordered state from the Complex will take an understanding of their strengths and putting those to use. Patterns should emerge after some sensing is performed but may not be fully understood until a post-analysis/lessons-learned is conducted. As in Chaotic, this domain doesn't need 'good' or 'best' practice - it needs leadership and EQ to navigate the complexities of each individual situation. 
+3.	If you are in the Complicated domain, <b>SENSE</b> by engaging with experts to use 'good practice' (not 'best practice')  is the recommended approach to move into the Simple domain. The goal shouldn't be to move from the Complicated to the Simple domain, it should be to prevent the organization from falling back into the 'disordered' domains; this is more akin to the WALK/RUN transition and reverting back to CRAWL.  Maintain the SME mantle and continue to get the customer to 'think differently' about problems/issues/trends - help them focus on a future state that embraces long-term goals to aid them from backsliding (AI/automation/etc).
+4.	If you believe that you are in the Simple domain - then everything should be hunky-dory, and no action is required. Sit back, let the team do the work as it's been defined, and monitor for events based on triggering thresholds.
+5.	Utilizing the Good to Great framework, aid customers to maintain optimism for overcoming the situation without going over the cliff to delusion of grandeur. Help them stay positive and focused on the goals without getting too hopefully by:
+  a)	Lead with questions - not answers
+  b) Engage in dialogue and debate – not coercion
+  c)	Find root cause/impact of issue – not blame seeking
+  d)	Big tent mindset (diversity & inclusion) – do not silo/isolate groups
