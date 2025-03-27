@@ -1,6 +1,7 @@
-ID	State	Work Item Type	Title 3	Value Area	Tags	Description
-607	New	User Story	1 - Azure Fundamentals	Business		Azure Fundamentals
-492	New	Task	1.1 - How does Azure Work			<div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;"><span lang=PT-BR style="font-family:&quot;Segoe UI Light&quot;,sans-serif;"><a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure?WT.mc_id=devops_userstory_service_gov-inproduct-devopsportal">How does Azure Works</a></span></span><br> </div>
+| ID	| State	 | Work Item Type	| Title |	Value Area	| Tags | Description | 
+|------|-------|------------|------------|-------------|---------|-------------|
+| 607	| New	| User Story | 1 - Azure Fundamentals	| Business	|	Azure Fundamentals | |
+| 492	| New	| Task | 1.1 - How does Azure Work |	| | [How does Azure Work](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/what-is-azure?WT.mc_id=devops_userstory_service_gov-inproduct-devopsportal)|
 501	New	Task	1.2 - Terminologies			<div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;"><span lang=PT-BR style="font-family:&quot;Segoe UI Light&quot;,sans-serif;"><a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-terminology?WT.mc_id=devops_userstory_service_gov-inproduct-devopsportal">Terminologies</a></span></span><br> </div>
 490	New	Task	1.3 - Portfolio Hierarchy			<div><a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy?WT.mc_id=devops_userstory_service_gov-inproduct-devopsportal">Understand and align the portfolio hierarchy</a><br> </div>
 481	New	Task	1.4 - Subscription purposes			<div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;"><span style="font-family:&quot;Segoe UI Light&quot;,sans-serif;"><a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-subscription-purposes?WT.mc_id=devops_userstory_service_gov-inproduct-devopsportal">Subscription purposes</a></span></span><br> </div>
