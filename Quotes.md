@@ -2,6 +2,7 @@
 
 ## Quotes for Leadership
 - "No pressure, no diamonds." [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle), Scottish Philosopher 1795-1881
+- "If you don't know to which port you are sailing - then no wind is favorable." [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 - "A mistake is an event, the full benefit of which has not yet been turned to your advantage." Ed Land, former president Polaroid.  From [The Firth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline). Perter Senge.  Personal Master/Vision section pg 143
 - "To become a leader, you must first become a human being." Confucius
 - “It is amazing what you can accomplish if you do not care who gets the credit.” Harry S. Truman
