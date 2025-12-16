@@ -6,6 +6,7 @@
 - 🪢 Connect with me https://www.linkedin.com/in/michaelpmckanna/
 - 🏢 Visit my company site for new posts, insights, and engagement opportunities https://www.adno-llc.com/
 - 📖 Prepare for the Microsoft Azure Security Engineer Associate AZ-500 exam with my [study guide](/az500-guide.md).
+- 📚 Prepare for the Microsoft Copilot & Agent Administration Fundamentals Certification AB-900 exam with my [study guide](/ab-900-guide.md)
 
 ## My core philosophy - 12 Tenets for success in an ever-evolving technological world:
 1. **"No pressure. No diamonds."** [Thomas Carlyle](https://en.wikipedia.org/wiki/Thomas_Carlyle) Nothing good comes without challenges - embrace them and learn from them. They will only make you better.  
