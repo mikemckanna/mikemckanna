@@ -1,0 +1,131 @@
+# Microsoft Copilot & Agent Administration Fundamentals Certification Exam AB-900 Preparation Guide
+## General Study Resources
+- AB-900 Study Guide Home <https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-900>
+- Certification Home Page <https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification#two-ways-to-prepare>
+- Microsoft 365 CoPilot Learning Pathay <https://learning-pathways.co.uk/wp-content/uploads/2025/02/Microsoft-365-Copilot-Learning-Pathway.pdf>
+
+## Study Guide
+1. Identify the core features and objects of Microsoft 365 services (30–35%) <https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-administration/><br/>
+	- Identify the core objects of Microsoft 365 services
+		- Explain how license types assigned to users and groups affect access to Microsoft 365 features
+			- https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-group-licenses?view=o365-worldwide
+		- Explore the organization configurations by using the Microsoft 365 admin center (domain names and org settings)
+			- https://learn.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365-worldwide
+		- Identify the appropriate objects to configure by using the Exchange Online admin center (mailboxes and distribution lists)
+			- https://learn.microsoft.com/en-us/microsoft-365/admin/email/office-365-user-email-settings?view=o365-worldwide
+		- Identify the appropriate objects to configure by using the SharePoint in Microsoft 365 admin center (sites, libraries, and folders)
+			- https://learn.microsoft.com/en-us/sharepoint/plan-for-sharepoint-onedrive
+		- Identify the appropriate roles and permissions for sites in SharePoint in Microsoft 365
+			- https://learn.microsoft.com/en-us/sharepoint/manage-sites-in-new-admin-center
+		- Identify the appropriate objects to configure by using the Teams admin center (teams, channels, and policies)
+			- https://learn.microsoft.com/en-us/microsoftteams/manage-teams-overview
+	- Understand the Microsoft 365 security principles
+		- Explain the core Zero Trust principles
+			- https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview
+		- Understand authorization
+			- https://learn.microsoft.com/en-us/entra/identity-platform/authentication-vs-authorization
+		- Understand authentication methods
+			- https://learn.microsoft.com/en-us/entra/identity-platform/authentication-vs-authorization
+		- Understand threat protection and intelligence
+			- https://learn.microsoft.com/en-us/defender-office-365/mdo-about?toc=%2Fdefender-xdr%2Ftoc.json&bc=%2Fdefender-xdr%2Fbreadcrumb%2Ftoc.json
+		- Understand features and capabilities of Microsoft Defender XDR
+			- https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender
+	- Identify the core security features of Microsoft 365 services
+		- Understand features and capabilities of Microsoft Entra
+			- https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra
+		- Understand conditional access policies
+			- https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-policies
+		- Understand the purpose and benefits of SSO
+			- https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/what-is-single-sign-on
+		- Identify the appropriate security object to use in an organization (users and groups)
+			- https://learn.microsoft.com/en-us/microsoft-365/admin/create-groups/compare-groups?view=o365-worldwide
+		- Identify the appropriate tools to troubleshoot common sign-in issues (multifactor authentication [MFA], conditional access, and risky sign-ins)
+			- https://learn.microsoft.com/en-us/entra/identity/monitoring-health/overview-monitoring-health
+		- Interpret Identity Secure Score in Microsoft Entra ID
+			- https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-identity-secure-score
+		- Use the appropriate tools to review audit logs for user and admin activity
+			- https://learn.microsoft.com/en-us/entra/identity/monitoring-health/howto-access-activity-logs?tabs=microsoft-entra-activity-logs%2Carchive-activity-logs-to-a-storage-account
+		- Identify the role of Privileged Identity Management (PIM) in an organization
+			- https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-configure
+		- Understand App registrations and Enterprise apps
+			- https://learn.microsoft.com/en-us/entra/identity/enterprise-apps/what-is-application-management
+
+2. Understand data protection and governance tasks for Microsoft 365 and Copilot (35–40%)<br/>
+	- Understand Microsoft Purview
+		- Understand features and capabilities of Microsoft Purview Information Protection, Microsoft Purview Data Loss Prevention (DLP), Microsoft Purview Insider Risk Management, Microsoft Purview Communication Compliance, Microsoft Purview Data Security Posture Management (DSPM) for AI, and Microsoft Purview Data Lifecycle Management
+			- https://learn.microsoft.com/en-us/purview/purview
+		- Identify the use cases for sensitivity labels in Microsoft Purview
+			- https://learn.microsoft.com/en-us/purview/data-map-sensitivity-labels
+		- Understand data classification in Microsoft Purview
+			- https://learn.microsoft.com/en-us/purview/data-map-classification
+		- Understand retention
+			- https://learn.microsoft.com/en-us/purview/retention?tabs=table-overriden
+	- Understand data security implications of Copilot
+		- Understand how Copilot accesses data
+			- https://learn.microsoft.com/en-us/compliance/assurance/assurance-artificial-intelligence#what-data-does-copilot-access
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview#copilot-works-with-microsoft-365-apps-and-microsoft-graph
+		- Understand how Microsoft Graph influences Copilot responses
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-architecture?toc=%2Fcompliance%2Fassurance%2Ftoc.json&bc=%2Fcompliance%2Fassurance%2Fbreadcrumb%2Ftoc.json
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview#copilot-works-with-microsoft-365-apps-and-microsoft-graph
+		- Understand how Copilot uses permissions and other controls in Microsoft 365, Microsoft Purview, and Microsoft Defender to protect against risks
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview#microsoft-365-services-that-help-support-copilot
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-architecture?toc=%2Fcompliance%2Fassurance%2Ftoc.json&bc=%2Fcompliance%2Fassurance%2Fbreadcrumb%2Ftoc.json#copilot-honors-conditional-access-and-mfa
+		- Understand responsible AI principles
+			- https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2&toc=%2Fcompliance%2Fassurance%2Ftoc.json&bc=%2Fcompliance%2Fassurance%2Fbreadcrumb%2Ftoc.json
+	- Identify data protection and governance risks for Microsoft 365 and Copilot
+		- Identify compliance risks and recommendations by using Microsoft Purview Compliance Manager
+			- https://learn.microsoft.com/en-us/purview/compliance-manager
+		- Identify sensitive information by using Microsoft Purview Data Explorer
+			- https://learn.microsoft.com/en-us/purview/data-classification-data-explorer
+		- Identify risks by using Insider Risk Management
+			- https://learn.microsoft.com/en-us/purview/insider-risk-management-solution-overview
+		- Identify and respond to alerts generated by Microsoft Purview DLP
+			- https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp
+		- Identify policy violations generated by Communication Compliance
+			- https://learn.microsoft.com/en-us/purview/communication-compliance-solution-overview
+		- Identify user activities reported by Microsoft Purview activity explorer
+			- https://learn.microsoft.com/en-us/purview/data-classification-activity-explorer
+		- Discover and manage AI activity by using DSPM for AI
+			- https://learn.microsoft.com/en-us/purview/ai-microsoft-purview
+		- Search for files and emails by using Content search in Microsoft Purview eDiscovery
+			- https://learn.microsoft.com/en-us/purview/edisc-search-query
+	- Identify and monitor oversharing in SharePoint in Microsoft 365
+		- Identify the tools to troubleshoot oversharing in an organization
+			- https://learn.microsoft.com/en-us/sharepoint/sharing-reports
+		- Run a data access governance report in SharePoint
+			- https://learn.microsoft.com/en-us/sharepoint/data-access-governance-reports
+		- Understand features and capabilities of SharePoint Advanced Management, including restricted site access
+			- https://learn.microsoft.com/en-us/sharepoint/advanced-management
+
+3. Perform basic administrative tasks for Copilot and agents (25–30%) <https://learn.microsoft.com/en-us/training/paths/explore-microsoft-365-copilot-agent-administration/><br/>
+	- Understand features and capabilities of Copilot and agents
+		- Compare the built-in capabilities of Copilot and agents
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/which-copilot-for-your-organization
+		- Compare Copilot monthly license model to pay-as-you-go, including SharePoint
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-licensing 
+		- Identify which Copilot features can be enabled or disabled
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-control-system/management-controls
+		- Identify use cases for Researcher
+			- https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agents-overview#choose-what-type-of-agent-to-build
+		- Identify use cases for Analyst
+			- https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agents-overview#choose-what-type-of-agent-to-build
+		- Identify use cases for custom agents
+			- https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agents-overview#choose-what-type-of-agent-to-build
+	- Perform basic administrative tasks for Copilot
+		- Assign Copilot licenses
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-setup
+		- Monitor and manage Copilot pay-as-you-go billing policies
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/pay-as-you-go/view-cost
+		- Monitor Copilot usage and adoption, including Copilot Analytics and the Microsoft 365 admin center
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-enablement-resources
+		- Manage prompts, including saving, sharing, scheduling, and deleting
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/scheduled-prompts
+	- Perform basic administrative tasks for agents
+		- Identify how to configure user access to agents
+			- https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-copilot-agents-integrated-apps?view=o365-worldwide&toc=%2Fcopilot%2Fmicrosoft-365%2Ftoc.json&bc=%2Fcopilot%2Fmicrosoft-365%2Fagent-framework%2Fbread%2Ftoc.json#manage-access-to-copilot-agents
+		- Create an agent
+			- https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agents-overview?toc=%2Fcopilot%2Fmicrosoft-365%2Ftoc.json&bc=%2Fcopilot%2Fmicrosoft-365%2Fagent-framework%2Fbread%2Ftoc.json&view=o365-worldwide
+		- Understand approval process for agents
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-agent-install?view=o365-worldwide
+		- Monitor agents, including usage, operational insights, and agent lifecycle, by working with the Microsoft 365 admin center and the Microsoft Power Platform admin center
+			- https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-reports-for-admins?view=o365-worldwide
