@@ -21,11 +21,13 @@
 10. **"No plan survives first contact with the enemy."** [Battle Management Mantra.](https://www.google.com/search?q=no+plan+survives+first+contact+with+the+enemy&oq=no+plan+sur&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMjk1MWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8) A plan doesn’t need to be a super-detailed document - it only needs to list the desired outcomes, highlights of how to get there, and what are some fall backs if snags occur (risks/issues). Most details aren’t realized until resistance presents itself, so it’s not worth the effort to spend valuable time on it too soon. But the opposite can be <I>Failing to Plan</I> = <I> PLanning to Fial!</I> 
 11. **"Beware complacency."** Don’t rest on your past accomplishments - continue to challenge yourself effectively and embrace the friction. Lean into discomfort. "The only easy day was yesterday!" [Navy SEAL training mantra.] 
 12. **"Complaining about a problem without proposing a solution is called whining."** Commonly attributed to Teddy Roosevelt. Whining is unacceptable!
+----------------------------
 💡 Addtional Items to contemplate:
-13.    "In God we trust. All others must bring data." W. Edwards Deming.
-14. "No one rises to the occasion. They fall back on their prepartation (training)" [Acchilochus] (https://en.wikipedia.org/wiki/Archilochus) 
-15. "One 'Aw $h1t!' can ruin a thousand 'atta boys'!" Common military mantra. It's a harsh reality - one bad moment can erase a great track record. We're only as good as we are remembered.
-16. "Would you rather be right? Or would you rather be happy?" Choose your battles carefully - not every disargreement is worth the effort. Sometimes it's better to just accept the 'L' and move on. No need to die on the trivial hill.
+
+13.   <B>"In God we trust. All others must bring data."</B> W. Edwards Deming.
+14. <B>"No one rises to the occasion. They fall back on their prepartation. (Training)" </B> [Acchilochus](https://en.wikipedia.org/wiki/Archilochus) 
+15. <B>"One 'Aw $h1t!' can ruin a thousand 'atta boys'!"</B> Common military mantra. It's a harsh reality - one bad moment can erase a great track record. We're only as good as we are remembered.
+16. <B>"Would you rather be right? Or would you rather be happy?" </B> Choose your battles carefully - not every disargreement is worth the effort. Sometimes it's better to just accept the 'L' and move on. No need to die on the trivial hill.
 <!---
 mikemckanna/mikemckanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
