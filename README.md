@@ -1,5 +1,6 @@
 - 🌱 Hi, I’m @mikemckanna I’m currently on a knowledge sharing journey.
 - 👀 I’m interested in Cloud (Architecture, Security, Adoption), AI, and other advanced technologies.
+- 🖥️ See my Professional Career Summary [page](/careersummary.md).
 - 🎥 See my [YouTube channel for The Walking PM](http://www.youtube.com/@TheWalkingPM).
 - 🗣️ See my favorite quotes [page](/Quotes.md).
 - 💞️ I’m looking to collaborate on content creation tips to help be more effective. 
